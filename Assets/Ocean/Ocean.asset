@@ -348,9 +348,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: DefaultSettingsVolumeProfile
+  m_Name: Ocean
   m_EditorClassIdentifier: 
-  components: []
+  components:
+  - {fileID: 7542669330009093999}
+  - {fileID: -8770122170507510650}
+  - {fileID: -6388366911548443148}
+  - {fileID: 2993180585044279742}
+  - {fileID: 6526250924184621388}
+  - {fileID: -1608890088890912965}
+  - {fileID: 7810253697573419382}
+  - {fileID: 1164880336173647898}
+  - {fileID: -5028944643000133344}
+  - {fileID: -2966961608986872689}
+  - {fileID: 7610426141790400721}
 --- !u!114 &1164880336173647898
 MonoBehaviour:
   m_ObjectHideFlags: 3
