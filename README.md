@@ -4,3 +4,7 @@
 ![gif](https://user-images.githubusercontent.com/343936/180593882-a74e3627-1e5d-426e-b251-9e67a10ea2d9.gif)
 
 This is a test project where I'm testing the Water Surface feature newly introduced in Unity 2022.2 (HDRP 14).
+
+For further information about the Water Surface (Water System), please check the following forum thread:
+
+https://forum.unity.com/threads/water-system-for-the-high-definition-render-pipeline.1203751/
